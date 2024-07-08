@@ -14,3 +14,11 @@ your starting point. Return false otherwise.
 > **_NOTE:_** you will always receive a valid array containing a random
 > assortment of direction letters ('n', 's', 'e', or 'w' only). It will never
 > give you an empty array (that's not a walk, that's standing still!).
+
+## Run Application
+
+Open console from project folder and enter this command to start
+
+```
+npm run dev
+```
