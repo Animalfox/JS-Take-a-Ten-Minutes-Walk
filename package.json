@@ -4,6 +4,7 @@
   "description": "A repository for solving the \"JS Take a Ten Minutes Walk\" challenge, which checks if a given walk sequence returns to the starting point in exactly ten minutes.",
   "main": "src/app.js",
   "scripts": {
+    "dev": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
