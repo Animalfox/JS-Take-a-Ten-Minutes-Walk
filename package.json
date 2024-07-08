@@ -1,0 +1,23 @@
+{
+  "name": "js-take-a-ten-minutes-walk",
+  "version": "1.0.0",
+  "description": "A repository for solving the \"JS Take a Ten Minutes Walk\" challenge, which checks if a given walk sequence returns to the starting point in exactly ten minutes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Animalfox/JS-Take-a-Ten-Minutes-Walk.git"
+  },
+  "keywords": [
+    "javascript",
+    "challenge"
+  ],
+  "author": "Animalfox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Animalfox/JS-Take-a-Ten-Minutes-Walk/issues"
+  },
+  "homepage": "https://github.com/Animalfox/JS-Take-a-Ten-Minutes-Walk#readme"
+}
